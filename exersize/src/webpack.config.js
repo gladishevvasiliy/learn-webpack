@@ -19,6 +19,6 @@ module.exports = {
   watch: false,
 
   watchOptions: {
-    aggregateTimeout: 100
+    aggregateTimeout: 110
   },
 };
